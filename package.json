@@ -1,6 +1,6 @@
 {
   "name": "@binary/xz",
-  "version": "1.1.0-5.2.5",
+  "version": "1.1.1-5.2.5",
   "description": "xz",
   "main": "lib/index.js",
   "types": "lib/index.d.ts",
@@ -19,7 +19,7 @@
   ],
   "license": "UNLICENSED",
   "dependencies": {
-    "@binary/type": "^1.0.3",
+    "@binary/type": "^1.0.4",
     "@xingrz/download2": "^9.0.0-alpha.4"
   },
   "devDependencies": {

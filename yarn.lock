@@ -302,10 +302,10 @@
   resolved "https://registry.npmjs.org/@bcoe/v8-coverage/-/v8-coverage-0.2.3.tgz#75a2e8b51cb758a7553d6804a5932d7aace75c39"
   integrity sha512-0hYQ8SB4Db5zvZB4axdMHGwEaQjkZzFjQiN9LVYvIFB2nSUHW9tYpxWriPrWDASIxiaXax83REcLxuSdnGPZtw==
 
-"@binary/type@^1.0.3":
-  version "1.0.3"
-  resolved "https://registry-lpm.listenai.com/@binary/type/download/@binary/type-1.0.3.tgz#152fd5a305d9a6e541de8cd6e3e894b180fe2d06"
-  integrity sha1-FS/VowXZpuVB3ozW4+iUsYD+LQY=
+"@binary/type@^1.0.4":
+  version "1.0.4"
+  resolved "https://registry-lpm.listenai.com/@binary/type/download/@binary/type-1.0.4.tgz#90f1ee052574b4dcc074e1a3a55a8b11de1bd13e"
+  integrity sha1-kPHuBSV0tNzAdOGjpVqLEd4b0T4=
 
 "@istanbuljs/load-nyc-config@^1.0.0":
   version "1.1.0"
